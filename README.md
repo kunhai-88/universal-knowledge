@@ -1,5 +1,6 @@
 # universal-knowledge
 ## 知识的普惠：短视频与知识传播研究报告
+短视频时代，如何通过15秒到1分钟的碎片化时间，让以往藏在象牙塔大部头里的知识，能够飞入寻常百姓家
  
  <img alt="Research" src="https://raw.githubusercontent.com/ifrontend-xyz/universal-knowledge/master/知识的普惠：短视频与知识传播研究报告_000001.jpg" width="100%" />
  <img alt="Research" src="https://raw.githubusercontent.com/ifrontend-xyz/universal-knowledge/master/知识的普惠：短视频与知识传播研究报告_000002.jpg" width="100%" />
